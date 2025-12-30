@@ -1,0 +1,17 @@
+{
+  "name": "backend-core",
+  "version": "1.0.0",
+  "description": "backend mastery",
+  "keywords": [
+    "javascript",
+    "backend",
+    "devzi"
+  ],
+  "license": "ISC",
+  "author": "HevenDev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
