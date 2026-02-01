@@ -14,3 +14,17 @@ userSchema.pre("save", ) yaha jo callback aata hai, usme arrow function use nhi 
 
 Extra notes,
 this keyword jo refer krta hia vo refer krta hia current context ko, jaha bhi vo use hua hai, current object k context ko
+
+# video 10 notes,
+multer se kaise cloudinary par upload krna hota hai vo sikha, documentation padhi.
+
+# video 11
+setup register and all other APIs seetup. Debug issue of high order function as asycnHandler wasn't returning the value as we expected to return a function. That is fixed here
+
+# Headers, HTTP crash course
+* HTTP Status Code
+** 1xx Informational
+** 2xx Success
+** 3xx Redirection
+** 4xx Client error
+** 5xx Server error
