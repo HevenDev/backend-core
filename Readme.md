@@ -28,3 +28,18 @@ setup register and all other APIs seetup. Debug issue of high order function as 
 ** 3xx Redirection
 ** 4xx Client error
 ** 5xx Server error
+
+# video 12
+User controller setup and middleware guide
+
+# video 13
+Logic building register controller, big problem cut down to short and implemented
+
+# video 14
+Used postman to create collections and test register API
+
+# video 15 & 16
+Access token & refresh token concepts crystal cleared!!
+
+# video 17
+Added more features into user controller, such as editing fields & files
